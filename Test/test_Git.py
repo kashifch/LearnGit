@@ -1,4 +1,4 @@
-__author__ = 'arbisoft'
+__author__ = 'kashif'
 
 import unittest
 from bok_choy.web_app_test import WebAppTest
