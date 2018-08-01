@@ -12,7 +12,7 @@ class TestGitHub(WebAppTest):
 
     def test_page_existence(self):
         """
-        Make sure that the page is accessible.
+        Make sure that the page is accessible
         """
         GitHubSearchPage(self.browser).visit()
 
